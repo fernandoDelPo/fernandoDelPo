@@ -15,9 +15,9 @@ Soy un entusiasta de la tecnología que disfruta trabajando en equipo y resolvie
 ![Node.js](https://img.shields.io/badge/-Node.js-black?logo=node.js)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-black?logo=spring)
 [![SQL](https://img.shields.io/badge/-SQL-white?logo=mysql)](https://en.wikipedia.org/wiki/SQL)
+<br/>
 
-
-- Programa de especialización en frontend y backend en Digital House (2023-2024): <br/>![Digital House](https://img.shields.io/badge/Digital%20House-black)
+- Programa de especialización en frontend y backend en Digital House (2023-2024):
   
 [![Redux](https://img.shields.io/badge/-Redux-purple?logo=redux)](https://redux.js.org/)
 [![Go](https://img.shields.io/badge/-Go-black?logo=go)](https://golang.org/)
@@ -25,7 +25,7 @@ Soy un entusiasta de la tecnología que disfruta trabajando en equipo y resolvie
 [![SQL](https://img.shields.io/badge/-SQL-white?logo=mysql)](https://en.wikipedia.org/wiki/SQL)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-black?logo=mongodb)
 [![Microservicios](https://img.shields.io/badge/-Microservicios-blue)](https://en.wikipedia.org/wiki/Microservices)
-
+<br/>
   
     
 - Programa de Desarrollo Web Full Stack en EggEducation (2021):
@@ -34,7 +34,7 @@ Soy un entusiasta de la tecnología que disfruta trabajando en equipo y resolvie
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-brightgreen?logo=spring)
 ![Maven](https://img.shields.io/badge/-Maven-red?logo=apache-maven)
 [![SQL](https://img.shields.io/badge/-SQL-white?logo=mysql)](https://en.wikipedia.org/wiki/SQL)
-
+<br/>
     
 - Curso de Desarrollo de Inglés en Udemy
 - Programa de Fundamentos de MongoDB (2023)
