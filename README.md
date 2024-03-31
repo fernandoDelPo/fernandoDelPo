@@ -10,9 +10,9 @@ Soy un entusiasta de la tecnología que disfruta trabajando en equipo y resolvie
 
 - Programa de Desarrollo Web Full Stack en Digital House (2022-2023):
   
-  - ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  - ![React](https://img.shields.io/badge/-React-blue)
-  - ![Node.js](https://img.shields.io/badge/-Node.js-green)
+   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+   ![React](https://img.shields.io/badge/-React-blue)
+   ![Node.js](https://img.shields.io/badge/-Node.js-green)
   - ¡Y más! 🚀
 
 - Programa de especialización en frontend y backend en Digital House ()2023-2024):
@@ -20,7 +20,7 @@ Soy un entusiasta de la tecnología que disfruta trabajando en equipo y resolvie
   - [![Redux](https://img.shields.io/badge/-Redux-purple?logo=redux)](https://redux.js.org/)
   - [![Go](https://img.shields.io/badge/-Go-black?logo=go)](https://golang.org/)
   - [![Data Analytics](https://img.shields.io/badge/-Data%20Analytics-grey?logo=dataanalytics)](https://en.wikipedia.org/wiki/Data_analysis)
-  - [![MongoDB](https://img.shields.io/badge/-MongoDB-black?logo=mongodb)](https://www.mongodb.com
+  - [![MongoDB](https://img.shields.io/badge/-MongoDB-black?logo=mongodb)]
   - [![SQL](https://img.shields.io/badge/-SQL-white?logo=mysql)](https://en.wikipedia.org/wiki/SQL)
   - [![Microservicios](https://img.shields.io/badge/-Microservicios-blue)](https://en.wikipedia.org/wiki/Microservices)
   
