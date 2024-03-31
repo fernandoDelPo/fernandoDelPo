@@ -10,15 +10,15 @@ Soy un entusiasta de la tecnología que disfruta trabajando en equipo y resolvie
 
 - Programa de Desarrollo Web Full Stack en Digital House (2022-2023):
   
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript)
+    ![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript)
 
-![React](https://img.shields.io/badge/-React-blue?logo=react)
+    ![React](https://img.shields.io/badge/-React-blue?logo=react)
 
-![Node.js](https://img.shields.io/badge/-Node.js-black?logo=node.js)
+    ![Node.js](https://img.shields.io/badge/-Node.js-black?logo=node.js)
 
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-black?logo=spring)
+    ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-black?logo=spring)
 
-[![SQL](https://img.shields.io/badge/-SQL-white?logo=mysql)](https://en.wikipedia.org/wiki/SQL)
+    [![SQL](https://img.shields.io/badge/-SQL-white?logo=mysql)](https://en.wikipedia.org/wiki/SQL)
 
 
 - Programa de especialización en frontend y backend en Digital House (2023-2024):
