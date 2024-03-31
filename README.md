@@ -19,7 +19,7 @@ Soy un entusiasta de la tecnología que disfruta trabajando en equipo y resolvie
   
   - [![Redux](https://img.shields.io/badge/-Redux-purple?logo=redux)](https://redux.js.org/)
   - [![Go](https://img.shields.io/badge/-Go-black?logo=go)](https://golang.org/)
-  - [![Power BI](https://img.shields.io/badge/-Power%20BI-grey?logo=powerbi)](https://powerbi.microsoft.com/)
+  - [![Data Analytics](https://img.shields.io/badge/-Data%20Analytics-grey?logo=dataanalytics)](https://en.wikipedia.org/wiki/Data_analysis)
   - [![MongoDB](https://img.shields.io/badge/-MongoDB-black?logo=mongodb)](https://www.mongodb.com/)
   - [![Microservicios](https://img.shields.io/badge/-Microservicios-blue)](https://en.wikipedia.org/wiki/Microservices)
   - [![SQL](https://img.shields.io/badge/-SQL-white?logo=mysql)](https://en.wikipedia.org/wiki/SQL)
@@ -38,11 +38,11 @@ Soy un entusiasta de la tecnología que disfruta trabajando en equipo y resolvie
 ![MySQL](https://img.shields.io/badge/-MySQL-blue)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-green)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-blue)
-- [![Postman](https://img.shields.io/badge/-Postman-orange?logo=postman)](https://www.postman.com/)
-- [![Keycloak](https://img.shields.io/badge/-Keycloak-blue?logo=keycloak)](https://www.keycloak.org/)
-- [![MongoCompass](https://img.shields.io/badge/-MongoCompass-green?logo=mongodb)](https://www.mongodb.com/products/compass)
-- [![Power BI](https://img.shields.io/badge/-Power%20BI-yellow?logo=powerbi)](https://powerbi.microsoft.com/)
-- [![Primavera](https://img.shields.io/badge/-Primavera-brightgreen)](https://www.oracle.com/primavera/)
+[![Postman](https://img.shields.io/badge/-Postman-orange?logo=postman)](https://www.postman.com/)
+[![Keycloak](https://img.shields.io/badge/-Keycloak-blue?logo=keycloak)](https://www.keycloak.org/)
+[![MongoCompass](https://img.shields.io/badge/-MongoCompass-green?logo=mongodb)](https://www.mongodb.com/products/compass)
+[![Power BI](https://img.shields.io/badge/-Power%20BI-yellow?logo=powerbi)](https://powerbi.microsoft.com/)
+[![Primavera](https://img.shields.io/badge/-Primavera-brightgreen)](https://www.oracle.com/primavera/)
 ![Adobe After Effects](https://img.shields.io/badge/-After%20Effects-orange)
 
 ¡Y mucho más! 🔥
