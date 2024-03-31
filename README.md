@@ -10,9 +10,10 @@ Soy un entusiasta de la tecnología que disfruta trabajando en equipo y resolvie
 
 - Programa de Desarrollo Web Full Stack en Digital House (2022-2023):
   
-   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-   ![React](https://img.shields.io/badge/-React-blue)
-   ![Node.js](https://img.shields.io/badge/-Node.js-green)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript)
+![React](https://img.shields.io/badge/-React-blue?logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-green?logo=node.js)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-brightgreen?logo=spring)
   - ¡Y más! 🚀
 
 - Programa de especialización en frontend y backend en Digital House ()2023-2024):
