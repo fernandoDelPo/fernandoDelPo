@@ -54,8 +54,7 @@ Soy un entusiasta de la tecnología que disfruta trabajando en equipo y resolvie
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/fernando-del-pozzi-9114b790/)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github)](https://github.com/fernandoDelPo)
-[![Gmail](https://img.shields.io/badge/-Gmail-red?logo=gmail)](mailto:fernandodelpozzi@gmail.com)
-
+[![Gmail](https://img.shields.io/badge/-Gmail-white?logo=gmail)](mailto:fernandodelpozzi@gmail.com)
 
 
 ¡Gracias por visitar mi perfil! ¡Espero que te guste lo que ves! 🚀
