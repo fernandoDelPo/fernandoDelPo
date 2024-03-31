@@ -14,13 +14,21 @@ Soy un entusiasta de la tecnología que disfruta trabajando en equipo y resolvie
   - ![React](https://img.shields.io/badge/-React-blue)
   - ![Node.js](https://img.shields.io/badge/-Node.js-green)
   - ¡Y más! 🚀
+
+- Programa de especialización en frontend y backend en Digital House ()2023-2024):
+  
+  - [![Redux](https://img.shields.io/badge/-Redux-purple?logo=redux)](https://redux.js.org/)
+  - [![Go](https://img.shields.io/badge/-Go-blue?logo=go)](https://golang.org/)
+  - [![Power BI](https://img.shields.io/badge/-Power%20BI-yellow?logo=powerbi)](https://powerbi.microsoft.com/)
+  - [![MongoDB](https://img.shields.io/badge/-MongoDB-green?logo=mongodb)](https://www.mongodb.com/)
+  - [![Microservicios](https://img.shields.io/badge/-Microservicios%20SQL-orange?logo=mysql)](https://www.mysql.com/)
     
 - Programa de Desarrollo Web Full Stack en EggEducation (2021):
   
   - ![Java](https://img.shields.io/badge/-Java-orange)
   - ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-brightgreen)
   - ![Maven](https://img.shields.io/badge/-Maven-red)
-  - 
+    
 - Curso de Desarrollo de Inglés en Udemy
 - Programa de Fundamentos de MongoDB (2023)
 
