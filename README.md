@@ -15,7 +15,6 @@ Soy un entusiasta de la tecnología que disfruta trabajando en equipo y resolvie
 ![Node.js](https://img.shields.io/badge/-Node.js-black?logo=node.js)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-black?logo=spring)
 [![SQL](https://img.shields.io/badge/-SQL-white?logo=mysql)](https://en.wikipedia.org/wiki/SQL)
-  - ¡Y más! 🚀
 
 - Programa de especialización en frontend y backend en Digital House ()2023-2024):
   
