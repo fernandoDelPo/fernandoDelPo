@@ -35,7 +35,7 @@ Soy un entusiasta de la tecnología que disfruta trabajando en equipo y resolvie
 
 ## Habilidades 🚀
 
-![MySQL](https://img.shields.io/badge/-MySQL-sky-blue)
+![MySQL](https://img.shields.io/badge/-MySQL-skyblue)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-blue)
 [![Postman](https://img.shields.io/badge/-Postman-white?logo=postman)](https://www.postman.com/)
 [![Keycloak](https://img.shields.io/badge/-Keycloak-black?logo=keycloak)](https://www.keycloak.org/)
