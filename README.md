@@ -20,7 +20,7 @@ Soy un entusiasta de la tecnología que disfruta trabajando en equipo y resolvie
   - [![Redux](https://img.shields.io/badge/-Redux-purple?logo=redux)](https://redux.js.org/)
   - [![Go](https://img.shields.io/badge/-Go-black?logo=go)](https://golang.org/)
   - [![Data Analytics](https://img.shields.io/badge/-Data%20Analytics-grey?logo=dataanalytics)](https://en.wikipedia.org/wiki/Data_analysis)
-  - [![MongoDB](https://img.shields.io/badge/-MongoDB-black?logo=mongodb)]
+  - [![MongoDB](https://img.shields.io/badge/-MongoDB-black?logo=mongodb)
   - [![SQL](https://img.shields.io/badge/-SQL-white?logo=mysql)](https://en.wikipedia.org/wiki/SQL)
   - [![Microservicios](https://img.shields.io/badge/-Microservicios-blue)](https://en.wikipedia.org/wiki/Microservices)
   
