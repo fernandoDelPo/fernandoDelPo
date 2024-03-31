@@ -36,14 +36,13 @@ Soy un entusiasta de la tecnología que disfruta trabajando en equipo y resolvie
 ## Habilidades 🚀
 
 ![MySQL](https://img.shields.io/badge/-MySQL-blue)
-![MongoCompass](https://img.shields.io/badge/-MongoDB-green)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-blue)
 [![Postman](https://img.shields.io/badge/-Postman-orange?logo=postman)](https://www.postman.com/)
-[![Keycloak](https://img.shields.io/badge/-Keycloak-blue?logo=keycloak)](https://www.keycloak.org/)
+[![Keycloak](https://img.shields.io/badge/-Keycloak-black?logo=keycloak)](https://www.keycloak.org/)
 [![MongoDB Compass](https://img.shields.io/badge/-MongoCompass-green?logo=mongodb-compas)](https://www.mongodb.com/products/compass)
-[![Power BI](https://img.shields.io/badge/-Power%20BI-yellow?logo=powerbi)](https://powerbi.microsoft.com/)
+[![Power BI](https://img.shields.io/badge/-Power%20BI-grey?logo=powerbi)](https://powerbi.microsoft.com/)
 [![Primavera](https://img.shields.io/badge/-Primavera-brightgreen)](https://www.oracle.com/primavera/)
-![Adobe After Effects](https://img.shields.io/badge/-After%20Effects-orange)
+![Adobe After Effects](https://img.shields.io/badge/-After%20Effects-purple)
 
 ¡Y mucho más! 🔥
 
