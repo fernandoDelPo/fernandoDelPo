@@ -18,10 +18,10 @@ Soy un entusiasta de la tecnología que disfruta trabajando en equipo y resolvie
 - Programa de especialización en frontend y backend en Digital House ()2023-2024):
   
   - [![Redux](https://img.shields.io/badge/-Redux-purple?logo=redux)](https://redux.js.org/)
-  - [![Go](https://img.shields.io/badge/-Go-blue?logo=go)](https://golang.org/)
-  - [![Power BI](https://img.shields.io/badge/-Power%20BI-yellow?logo=powerbi)](https://powerbi.microsoft.com/)
-  - [![MongoDB](https://img.shields.io/badge/-MongoDB-green?logo=mongodb)](https://www.mongodb.com/)
-  - [![Microservicios](https://img.shields.io/badge/-Microservicios%20SQL-orange?logo=mysql)](https://www.mysql.com/)
+  - [![Go](https://img.shields.io/badge/-Go-black?logo=go)](https://golang.org/)
+  - [![Power BI](https://img.shields.io/badge/-Power%20BI-white?logo=powerbi)](https://powerbi.microsoft.com/)
+  - [![MongoDB](https://img.shields.io/badge/-MongoDB-white?logo=mongodb)](https://www.mongodb.com/)
+  - [![Microservicios](https://img.shields.io/badge/-Microservicios%20SQL-white?logo=mysql)](https://www.mysql.com/)
     
 - Programa de Desarrollo Web Full Stack en EggEducation (2021):
   
