@@ -10,27 +10,30 @@ Soy un entusiasta de la tecnología que disfruta trabajando en equipo y resolvie
 
 - Programa de Desarrollo Web Full Stack en Digital House (2022-2023):
   
-![JavaScript](https://img.shields.io/badge/-JavaScript-darkgrey?logo=javascript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript)
 ![React](https://img.shields.io/badge/-React-blue?logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?logo=node.js)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-black?logo=spring)
+[![SQL](https://img.shields.io/badge/-SQL-white?logo=mysql)](https://en.wikipedia.org/wiki/SQL)
   - ¡Y más! 🚀
 
 - Programa de especialización en frontend y backend en Digital House ()2023-2024):
   
-  - [![Redux](https://img.shields.io/badge/-Redux-purple?logo=redux)](https://redux.js.org/)
-  - [![Go](https://img.shields.io/badge/-Go-black?logo=go)](https://golang.org/)
-  - [![Data Analytics](https://img.shields.io/badge/-Data%20Analytics-grey?logo=dataanalytics)](https://en.wikipedia.org/wiki/Data_analysis)
-  - [![SQL](https://img.shields.io/badge/-SQL-white?logo=mysql)](https://en.wikipedia.org/wiki/SQL)
-  - [![MongoDB](https://img.shields.io/badge/-MongoDB-black?logo=mongodb)
-  - [![Microservicios](https://img.shields.io/badge/-Microservicios-blue)](https://en.wikipedia.org/wiki/Microservices)
+[![Redux](https://img.shields.io/badge/-Redux-purple?logo=redux)](https://redux.js.org/)
+[![Go](https://img.shields.io/badge/-Go-black?logo=go)](https://golang.org/)
+[![Data Analytics](https://img.shields.io/badge/-Data%20Analytics-grey?logo=dataanalytics)](https://en.wikipedia.org/wiki/Data_analysis)
+[![SQL](https://img.shields.io/badge/-SQL-white?logo=mysql)](https://en.wikipedia.org/wiki/SQL)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-black?logo=mongodb)
+[![Microservicios](https://img.shields.io/badge/-Microservicios-blue)](https://en.wikipedia.org/wiki/Microservices)
   
     
 - Programa de Desarrollo Web Full Stack en EggEducation (2021):
   
-  - ![Java](https://img.shields.io/badge/-Java-orange)
-  - ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-brightgreen)
-  - ![Maven](https://img.shields.io/badge/-Maven-red)
+![Java](https://img.shields.io/badge/-Java-white?logo=java)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-brightgreen?logo=spring)
+![Maven](https://img.shields.io/badge/-Maven-red?logo=apache-maven)
+[![SQL](https://img.shields.io/badge/-SQL-white?logo=mysql)](https://en.wikipedia.org/wiki/SQL)
+
     
 - Curso de Desarrollo de Inglés en Udemy
 - Programa de Fundamentos de MongoDB (2023)
