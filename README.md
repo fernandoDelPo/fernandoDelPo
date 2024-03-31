@@ -50,10 +50,11 @@ Soy un entusiasta de la tecnología que disfruta trabajando en equipo y resolvie
 
 ## ¡Hablemos! 📬
 
-¡Estoy emocionado por la oportunidad de colaborar y contribuir en proyectos innovadores! No dudes en [contactarme](mailto:fernandodelpozzi@gmail.com) para hablar sobre ideas, colaboraciones o simplemente para charlar sobre tecnología. ¡Conectemos! 👇
+¡Estoy emocionado por la oportunidad de colaborar y contribuir en proyectos innovadores! No dudes en contactarme para hablar sobre ideas, colaboraciones o simplemente para charlar sobre tecnología. ¡Conectemos! 👇
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/fernando-del-pozzi-9114b790/)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github)](https://github.com/fernandoDelPo)
+E-mail: fernandodelpozzi@gmail.com
 
 
 ¡Gracias por visitar mi perfil! ¡Espero que te guste lo que ves! 🚀
