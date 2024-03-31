@@ -10,41 +10,41 @@ Soy un entusiasta de la tecnología que disfruta trabajando en equipo y resolvie
 
 - Programa de Desarrollo Web Full Stack en Digital House (2022-2023):
   
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&logoColor=white)
-![React](https://img.shields.io/badge/-React-black?logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-black?logo=node.js&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-black?logo=spring&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript)
+![React](https://img.shields.io/badge/-React-blue?logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-green?logo=node.js)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-brightgreen?logo=spring)
   - ¡Y más! 🚀
 
-- Programa de especialización en frontend y backend en Digital House (2023-2024):
+- Programa de especialización en frontend y backend en Digital House ()2023-2024):
   
-  - [![Redux](https://img.shields.io/badge/-Redux-black?logo=redux&logoColor=white)](https://redux.js.org/)
-  - [![Go](https://img.shields.io/badge/-Go-black?logo=go&logoColor=white)](https://golang.org/)
-  - [![Data Analytics](https://img.shields.io/badge/-Data%20Analytics-black?logo=dataanalytics&logoColor=white)](https://en.wikipedia.org/wiki/Data_analysis)
-  - [![SQL](https://img.shields.io/badge/-SQL-black?logo=mysql&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
-  - [![MongoDB](https://img.shields.io/badge/-MongoDB-black?logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-  - [![Microservicios](https://img.shields.io/badge/-Microservicios-black&logoColor=white)](https://en.wikipedia.org/wiki/Microservices)
+  - [![Redux](https://img.shields.io/badge/-Redux-purple?logo=redux)](https://redux.js.org/)
+  - [![Go](https://img.shields.io/badge/-Go-black?logo=go)](https://golang.org/)
+  - [![Data Analytics](https://img.shields.io/badge/-Data%20Analytics-grey?logo=dataanalytics)](https://en.wikipedia.org/wiki/Data_analysis)
+  - [![SQL](https://img.shields.io/badge/-SQL-white?logo=mysql)](https://en.wikipedia.org/wiki/SQL)
+  - [![MongoDB](https://img.shields.io/badge/-MongoDB-black?logo=mongodb)
+  - [![Microservicios](https://img.shields.io/badge/-Microservicios-blue)](https://en.wikipedia.org/wiki/Microservices)
   
     
 - Programa de Desarrollo Web Full Stack en EggEducation (2021):
   
-  - ![Java](https://img.shields.io/badge/-Java-black?logo=java&logoColor=white)
-  - ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-black?logo=spring&logoColor=white)
-  - ![Maven](https://img.shields.io/badge/-Maven-black?logo=apache-maven&logoColor=white)
+  - ![Java](https://img.shields.io/badge/-Java-orange)
+  - ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-brightgreen)
+  - ![Maven](https://img.shields.io/badge/-Maven-red)
     
 - Curso de Desarrollo de Inglés en Udemy
 - Programa de Fundamentos de MongoDB (2023)
 
 ## Habilidades 🚀
 
-![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql&logoColor=white)
-[![MongoDB Compass](https://img.shields.io/badge/-MongoCompass-black?logo=mongodb-compas&logoColor=white)](https://www.mongodb.com/products/compass)
-![VS Code](https://img.shields.io/badge/-VS%20Code-black?logo=visual-studio-code&logoColor=white)
-[![Postman](https://img.shields.io/badge/-Postman-black?logo=postman&logoColor=white)](https://www.postman.com/)
-[![Keycloak](https://img.shields.io/badge/-Keycloak-black?logo=keycloak&logoColor=white)](https://www.keycloak.org/)
-[![Power BI](https://img.shields.io/badge/-Power%20BI-black?logo=powerbi&logoColor=white)](https://powerbi.microsoft.com/)
-[![Primavera](https://img.shields.io/badge/-Primavera-black?logo=oracle&logoColor=white)](https://www.oracle.com/primavera/)
-![Adobe After Effects](https://img.shields.io/badge/-After%20Effects-black?logo=adobe-after-effects&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-skyblue)
+[![MongoDB Compass](https://img.shields.io/badge/-MongoCompass-green?logo=mongodb-compas)](https://www.mongodb.com/products/compass)
+![VS Code](https://img.shields.io/badge/-VS%20Code-blue)
+[![Postman](https://img.shields.io/badge/-Postman-white?logo=postman)](https://www.postman.com/)
+[![Keycloak](https://img.shields.io/badge/-Keycloak-black?logo=keycloak)](https://www.keycloak.org/)
+[![Power BI](https://img.shields.io/badge/-Power%20BI-grey?logo=powerbi)](https://powerbi.microsoft.com/)
+[![Primavera](https://img.shields.io/badge/-Primavera-brightgreen)](https://www.oracle.com/primavera/)
+![Adobe After Effects](https://img.shields.io/badge/-After%20Effects-purple)
 
 ¡Y mucho más! 🔥
 
