@@ -29,7 +29,7 @@ Soy un entusiasta de la tecnología que disfruta trabajando en equipo y resolvie
 
     [![Data Analytics](https://img.shields.io/badge/-Data%20Analytics-grey?logo=dataanalytics)](https://en.wikipedia.org/wiki/Data_analysis) [![SQL](https://img.shields.io/badge/-SQL-white?logo=mysql)](https://en.wikipedia.org/wiki/SQL)
 
-    ![MongoDB](https://img.shields.io/badge/-MongoDB-black?logo=mongodb) [![Microservicios](https://img.shields.io/badge/-Microservicios-blue)](https://en.wikipedia.org/wiki/Microservices) [![TypeScript](https://img.shields.io/badge/-TypeScript-blue?logo=typescript)](https://www.typescriptlang.org/)
+    ![MongoDB](https://img.shields.io/badge/-MongoDB-black?logo=mongodb) [![Microservicios](https://img.shields.io/badge/-Microservicios-blue)](https://en.wikipedia.org/wiki/Microservices) [![TypeScript](https://img.shields.io/badge/-TypeScript-black?logo=typescript)](https://www.typescriptlang.org/)
 
   
     
