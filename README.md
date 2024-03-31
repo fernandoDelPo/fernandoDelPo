@@ -1,6 +1,7 @@
 # ¡Hola, soy Fernando! 👋
 
-¡Bienvenido(a) a mi perfil de GitHub! Soy un apasionado desarrollador de software comprometido con el aprendizaje continuo y el crecimiento profesional. Mi objetivo es crear soluciones innovadoras y colaborar en proyectos emocionantes. Aquí tienes un vistazo de lo que me define:
+¡Bienvenida(o) a mi perfil de GitHub! Soy un apasionado desarrollador de software comprometido con el aprendizaje continuo y el crecimiento profesional. Mi objetivo es crear soluciones innovadoras y colaborar en proyectos emocionantes. Con 4 años de experiencia como desarrollador, aquí tienes un vistazo de lo que me define:
+
 
 ## Acerca de mí 💻
 
