@@ -40,10 +40,13 @@ Soy un entusiasta de la tecnología que disfruta trabajando en equipo y resolvie
     
 - Programa de Desarrollo Web Full Stack en EggEducation (2021):
   
-![Java](https://img.shields.io/badge/-Java-white?logo=java)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-black?logo=spring)
-![Maven](https://img.shields.io/badge/-Maven-red?logo=apache-maven)
-[![SQL](https://img.shields.io/badge/-SQL-white?logo=mysql)](https://en.wikipedia.org/wiki/SQL)
+    ![Java](https://img.shields.io/badge/-Java-white?logo=java)
+  
+    ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-black?logo=spring)
+  
+    ![Maven](https://img.shields.io/badge/-Maven-red?logo=apache-maven)
+  
+    [![SQL](https://img.shields.io/badge/-SQL-white?logo=mysql)](https://en.wikipedia.org/wiki/SQL)
 
     
 - Inglés B1
