@@ -7,6 +7,13 @@
 
 Soy un entusiasta de la tecnología que disfruta trabajando en equipo y resolviendo desafíos complejos. Además de mi experiencia en desarrollo web, soy un facilitador tecnológico y enseño a estudiantes sobre ![Python](https://img.shields.io/badge/-Python-blue) , ![Pandas](https://img.shields.io/badge/-Pandas-lightgrey) y ![Arduino](https://img.shields.io/badge/-Arduino-lightgrey). Mi objetivo a corto plazo es aportar mis habilidades en nuevos proyectos y seguir expandiendo mis conocimientos.
 
+## Experiencia Profesional 💼
+
+- **Desarrollador Web Freelance (Actualidad)**
+  - Trabajo en proyectos diversos utilizando mis habilidades en desarrollo web y tecnologías como JavaScript, React, Node.js y más.
+- **Facilitador Tecnológico en Mendoza Futura (2023)**
+  - Introducción a Python, base de datos y Arduino.
+
 ## Educación 📚
 
 - Programa de Desarrollo Web Full Stack en Digital House (2022-2023):
@@ -65,14 +72,7 @@ Soy un entusiasta de la tecnología que disfruta trabajando en equipo y resolvie
 
                                                               ¡Y mucho más! 🔥
 
-## Experiencia Profesional 💼
 
-- **Desarrollador Web Freelance (Actualidad)**
-  - Trabajo en proyectos diversos utilizando mis habilidades en desarrollo web y tecnologías como JavaScript, React, Node.js y más.
-- **Facilitador Tecnológico en Mendoza Futura (2023)**
-  - Introducción a Python, base de datos y Arduino.
-
-## Otras Habilidades y Más 🌟
 
 - 📷 Experiencia en instalación de cámaras de seguridad
 - 🛠️ Reparación y montaje de PC y Notebook
