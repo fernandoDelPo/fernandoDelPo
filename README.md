@@ -20,9 +20,10 @@ Soy un entusiasta de la tecnología que disfruta trabajando en equipo y resolvie
   - [![Redux](https://img.shields.io/badge/-Redux-purple?logo=redux)](https://redux.js.org/)
   - [![Go](https://img.shields.io/badge/-Go-black?logo=go)](https://golang.org/)
   - [![Data Analytics](https://img.shields.io/badge/-Data%20Analytics-grey?logo=dataanalytics)](https://en.wikipedia.org/wiki/Data_analysis)
-  - [![MongoDB](https://img.shields.io/badge/-MongoDB-black?logo=mongodb)](https://www.mongodb.com/)
-  - [![Microservicios](https://img.shields.io/badge/-Microservicios-blue)](https://en.wikipedia.org/wiki/Microservices)
+  - [![MongoDB](https://img.shields.io/badge/-MongoDB-black?logo=mongodb)](https://www.mongodb.com
   - [![SQL](https://img.shields.io/badge/-SQL-white?logo=mysql)](https://en.wikipedia.org/wiki/SQL)
+  - [![Microservicios](https://img.shields.io/badge/-Microservicios-blue)](https://en.wikipedia.org/wiki/Microservices)
+  
     
 - Programa de Desarrollo Web Full Stack en EggEducation (2021):
   
@@ -36,10 +37,10 @@ Soy un entusiasta de la tecnología que disfruta trabajando en equipo y resolvie
 ## Habilidades 🚀
 
 ![MySQL](https://img.shields.io/badge/-MySQL-skyblue)
+[![MongoDB Compass](https://img.shields.io/badge/-MongoCompass-green?logo=mongodb-compas)](https://www.mongodb.com/products/compass)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-blue)
 [![Postman](https://img.shields.io/badge/-Postman-white?logo=postman)](https://www.postman.com/)
 [![Keycloak](https://img.shields.io/badge/-Keycloak-black?logo=keycloak)](https://www.keycloak.org/)
-[![MongoDB Compass](https://img.shields.io/badge/-MongoCompass-green?logo=mongodb-compas)](https://www.mongodb.com/products/compass)
 [![Power BI](https://img.shields.io/badge/-Power%20BI-grey?logo=powerbi)](https://powerbi.microsoft.com/)
 [![Primavera](https://img.shields.io/badge/-Primavera-brightgreen)](https://www.oracle.com/primavera/)
 ![Adobe After Effects](https://img.shields.io/badge/-After%20Effects-purple)
@@ -51,6 +52,7 @@ Soy un entusiasta de la tecnología que disfruta trabajando en equipo y resolvie
 - **Desarrollador Web Freelance (Actualidad)**
   - Trabajo en proyectos diversos utilizando mis habilidades en desarrollo web y tecnologías como JavaScript, React, Node.js y más.
 - **Facilitador Tecnológico en Mendoza Futura (2023)**
+  - Introducción a Python, base de datos y Arduino.
 
 ## Otras Habilidades y Más 🌟
 
