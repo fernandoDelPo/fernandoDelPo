@@ -37,7 +37,7 @@ Soy un entusiasta de la tecnología que disfruta trabajando en equipo y resolvie
 
 ![MySQL](https://img.shields.io/badge/-MySQL-blue)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-blue)
-[![Postman](https://img.shields.io/badge/-Postman-orange?logo=postman)](https://www.postman.com/)
+[![Postman](https://img.shields.io/badge/-Postman-ligthblue?logo=postman)](https://www.postman.com/)
 [![Keycloak](https://img.shields.io/badge/-Keycloak-black?logo=keycloak)](https://www.keycloak.org/)
 [![MongoDB Compass](https://img.shields.io/badge/-MongoCompass-green?logo=mongodb-compas)](https://www.mongodb.com/products/compass)
 [![Power BI](https://img.shields.io/badge/-Power%20BI-grey?logo=powerbi)](https://powerbi.microsoft.com/)
